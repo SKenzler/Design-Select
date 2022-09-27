@@ -6,6 +6,8 @@
 
 This educational Landing Page was designed to appeal to young web developers. It is a place where a community of like minded people can learn, teach and discuss web technologies such as HTML5, CSS3, JavaScript, PHP, Bootstrap and SASS. Built using Bootstrap, this responsive fictional Landing Page was designed in Figma before being built using VS Code.
 
+[Live Demo](http://2-5-connect.42web.io/)
+
 ## Built With
 
 * Bootstrap5
